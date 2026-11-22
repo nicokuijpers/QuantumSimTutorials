@@ -8,7 +8,7 @@ quantumsim_qubitoperation.py<br>
 quantumsim_statevector.py<br>
 quantumsim_util.py<br>
 
-The following Python files are tutorials:<br>
+The following Python files are tutorials using QuantumSim:<br>
 quantumsimtutorial_bb84.py<br>
 quantumsimtutorial_bellstate.py<br>
 quantumsimtutorial_grover.py<br>
