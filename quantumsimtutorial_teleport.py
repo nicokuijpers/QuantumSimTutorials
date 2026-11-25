@@ -17,6 +17,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 """
 from quantumsim_circuit import Circuit
 from quantumsim_util import QuantumUtil
+import numpy as np
 
 """
 Function to create a quantum circuit for quantum teleportation of a qubit state |psi>.
